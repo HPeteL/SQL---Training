@@ -6,4 +6,4 @@ The quiries included in this repository -
 3. Update and Delete data in the table
 4. Basic Select quiries with additional conditions
 
-Note : The variant of SQL used for the abve is MYSQL.
+Note : The variant of SQL used for the above is MYSQL.
