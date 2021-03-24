@@ -7,5 +7,7 @@ The quiries included in this repository -
 4. Basic Select quiries with additional conditions
 5. Creating related data set
 6. Inserting values into a related data set
+7. SQL Functions 
+8. UNION function
 
 Note : The variant of SQL used for the above is MYSQL.
