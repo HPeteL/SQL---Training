@@ -5,5 +5,7 @@ The quiries included in this repository -
 2. Insert data into the table
 3. Update and Delete data in the table
 4. Basic Select quiries with additional conditions
+5. Creating related data set
+6. Inserting values into a related data set
 
 Note : The variant of SQL used for the above is MYSQL.
